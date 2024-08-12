@@ -9,5 +9,15 @@ El presente proyecto colaborativo explora la relevancia del inglés como lengua 
   <img src="image.png" alt="alt text">
 </p>
 
-- [Abstract](Abstract.md)
+- [*Abstract*](Abstract.md)
+- [*Introducción*](Introducción.md)
+- [*Origen del Idioma Ingles*](Origen_del_idioma_ingles.md) 
+- [*El inglés  y la investigación científica*](El_inglés_y_la_investigación_científica.md)
+- [*Recomendaciones*](Recomendaciones.md)
 
+
+### **Autores**
+
+*Odalis Clemente Pincay*  
+*Jhanelly Chalá Dávila*  
+*Alan del Rosario Ochoa*
