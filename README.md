@@ -26,4 +26,4 @@ El presente proyecto colaborativo explora la relevancia del inglés como lengua 
 *Jhanelly Chalá Dávila*  
 *Alan del Rosario Ochoa*
 # 
-![alt text](image.png) ![alt text](image-6.png)
+![alt text](image.png) ![alt text](image-4.png)
