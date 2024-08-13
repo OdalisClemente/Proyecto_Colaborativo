@@ -1,4 +1,4 @@
-# Proyecto Colaborativo ![alt text](image-3.png)
+# Proyecto Colaborativo     ![alt text](image-3.png)
 
 ## *Importancia del Ingles en la Investigación Científica*  
 
