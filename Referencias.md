@@ -10,7 +10,7 @@ KIRCHIK,   O.;   GINGRAS,   Y.;   LARIVIÈRE,   V.   2012.   Changes   in   publ
 
 KRYSS K.; TALAAT, Q.  2002.   The Origin and History of the English Language Disponible en: http://www.privateacher.edu.pe/Boletin.asp?ArticuloId=0501_HistoriaIngles. 					
 
-SUBEDI,  D.  2010.  English  and  Scientific Research: Some Reflections  |  Nelta Choutari).  Disponible  en:  www.neltachoutarywordpress.com.  Consultado:  01-04- 2013.
+SUBEDI,  D.  2010. English  and  Scientific Research: Some Reflections  |  Nelta Choutari. Disponible en: www.neltachoutarywordpress.com  Consultado: 01-04- 2013.
 
 TARDY, C. 2004. The role of English in scientific communication: lingua franca or
 tyrannosaurus rex?. Journal of English for academic purposes 3(3):247-269.
