@@ -20,7 +20,7 @@ El presente proyecto colaborativo explora la relevancia del inglés como lengua 
 - [*El inglés  y la investigación científica*](El_inglés_y_la_investigación_científica.md)
 - [*Resultados*](Resultados.md)
 - [*Recomendaciones*](Recomendaciones.md)
-- [*Referencias*](Referencias)
+- [*Referencias*](Referencias.md)
 #  
 
 ### **Autores**:
