@@ -4,7 +4,7 @@
 
 A continuación, se plantea la importancia del inglés en la investigación y en las publicaciones científicas. El uso de esta lengua internacional en el área de la ciencia está bien documentado. El inglés ha trascendido culturas y ha influenciado desde la moda hasta las tradiciones y estilos de vida. CRYSTAL (2004), sostiene que la importancia del inglés en las publicaciones científicas se remonta a la Revolución Industrial. Según este autor, dos tercios de los científicos y tecnólogos que hicieron posible dicho movimiento usaban el inglés (al principio británicos y más tarde americanos) como lengua materna, así que cualquiera que deseara conocer acerca de los últimos avances no tenía otra opción sino adquirir la competencia en inglés, ya sea directamente o través de la traducción.
 
-![ ](world_standarld_english.png)
+![Figura 1](world_standarld_english.png)
 
 ## 2. La Consolidación del Inglés como Lengua de la Ciencia
 
