@@ -6,12 +6,11 @@ En un primer estudio realizado entre 1996 y 2007, VAN WEIJEN (2012) confirmó la
 
 El análisis se extendió en un segundo estudio hacia países como Brasil y China por ser considerados por el autor como economías en ascenso investigativo, lo cual es confirmado con el hecho de que la tasa de crecimiento anual para los artículos indexados publicados en Scopus entre 1996 y 2011 en Brasil fueron del 13% y del 19% en China, lo cual es muy superior al 3 y 5% que es lo usualmente esperado (VAN WEIJEN, 2012).
 
-###### Figura 2. Número de artículos publicados por investigadores en inglés y en otros idiomas oficiales de ocho diferentes países en revistas especializadas entre 1996-2011. (Fuente: Scopus. Tomado de VAN WEIJEN, 2012
-
 ![Figura 2](Imagenes/resultado_2.jpg)
 
-La Fig.  2 muestra cómo, en contraste con el estudio original, el uso del inglés continuó aumentando fuertemente en Holanda, Italia y Rusia durante los pasados 4   años, también   se   incrementó   un   poco   en   Alemania, pero   permaneció relativamente estable en Francia, España y China.  Sin embargo, la diferencia entre el portugués y el inglés en Brasil está claramente decreciendo, aunque esto podría   ser   en   parte   a   un   incremento   en   el   cubrimiento   de   las   revistas especializadas publicadas en portugués en lugar de inglés en Sopas. Aun así, el crecimiento del uso del inglés es notorio todo el tiempo (VAN WEIJEN, 2012).
+###### Figura 2. Número de artículos publicados por investigadores en inglés y en otros idiomas oficiales de ocho diferentes países en revistas especializadas entre 1996-2011. (Fuente: Scopus. Tomado de VAN WEIJEN, 2012
 
+La Fig.  2 muestra cómo, en contraste con el estudio original, el uso del inglés continuó aumentando fuertemente en Holanda, Italia y Rusia durante los pasados 4   años, también   se   incrementó   un   poco   en   Alemania, pero   permaneció relativamente estable en Francia, España y China.  Sin embargo, la diferencia entre el portugués y el inglés en Brasil está claramente decreciendo, aunque esto podría   ser   en   parte   a   un   incremento   en   el   cubrimiento   de   las   revistas especializadas publicadas en portugués en lugar de inglés en Sopas. Aun así, el crecimiento del uso del inglés es notorio todo el tiempo (VAN WEIJEN, 2012).
 
 ![tabla 1](Imagenes/tabla_1.jpg)
 
@@ -19,16 +18,13 @@ La Fig.  2 muestra cómo, en contraste con el estudio original, el uso del ingl�
 
 Estos resultados indican que los investigadores que    publican en inglés, chino y ruso tienden a publicar más en campos relacionados con las ciencias duras o puras como la física, ingenierías y ciencias materiales.  Por otro lado, los investigadores quienes escogen publicar en holandés, francés, italiano, portugués y español tienden a publicar sus trabajos relacionados con campos de las ciencias humanas o blandas, como las de la salud, las sociales, psicología, artes y humanidades.  Este oscila casi del 80% para Holanda e Italia y hasta 60% para Alemania y Portugal. Aunque estos rangos son similares en casi todos los países hay un alto nivel de variación en los campos actuales dentro de estas categorías. Por ejemplo, más de la mitad de toda la publicación del idioma holandés en relación con las ciencias de la salud, la cual incluye medicina, odontología, enfermería   y   veterinaria, mientras   que   en   italiano   casi   41%   de   todas   las publicaciones están relacionadas con ciencias sociales, artes y humanidades VAN WEIJEN (2012)
 
-
 ![Figura 3](Imagenes/resultado_3.jpg)
 
 ###### Figura 3. Comparación de los resultados de la Facultad de medicina de la Universidad de Münster (Alemania) de todas las publicaciones hechas en inglés y en otros idiomas. Fuente: VAN LEEUWEN et al. (2001)
 
-
 ![Figura 4](Imagenes/resultado_4.jpg)
 
 ###### Figura 4. Impacto de los resultados de las publicaciones hechas por la Facultad de Medicina de la Universidad de Münster (Alemania) en todos los idiomas y solo en el idioma inglés entre 1990-1997. Fuente: VAN LEEUWEN et al. (2001)
-
 
 ![Figura 5](Imagenes/resultado_5.jpg)
 
