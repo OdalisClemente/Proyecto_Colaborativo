@@ -1,5 +1,8 @@
 # Proyecto Colaborativo     ![alt text](image-3.png)
 
+Este trabajo no contiene argumentos propios, son fragmentos de la investigación de Miryam Niño Puello (2013) publicada en Rev. Colombiana cienc. Anim títulada **EL INGLÉS Y SU IMPORTANCIA EN LA INVESTIGACIÓN CIENTÍFICA: ALGUNAS REFLEXIONES**.
+
+
 ## *Importancia del Ingles en la Investigación Científica*  
 
 ### Generalidad del Contenido
