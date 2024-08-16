@@ -26,7 +26,7 @@ El presente proyecto colaborativo explora la relevancia del inglés como lengua 
 - [*Referencias*](Referencias.md)
 #  
 
-### **Autores**:
+### **Colaboradores**:
 
 *Odalis Clemente Pincay*  
 *Jhanelly Chalá Dávila*  
